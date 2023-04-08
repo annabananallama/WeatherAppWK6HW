@@ -134,3 +134,13 @@ form {
   background-color: transparent;
   color: white;
 }
+
+.footer {
+  margin-top: 20px;
+  font-size: small;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
